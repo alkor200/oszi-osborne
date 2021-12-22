@@ -25,6 +25,6 @@ python3 main.py
 ```
 
 
-## Acknowledgeents
+## Inspirations
 * [Youscope](https://www.pouet.net/prod.php?which=31592)
 * [Jerobeam Fenderson](https://www.youtube.com/user/jerobeamfenderson1)
